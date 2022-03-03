@@ -1,8 +1,0 @@
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.csproj.AssemblyReference.cache
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.GeneratedMSBuildEditorConfig.editorconfig
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.AssemblyInfoInputs.cache
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.AssemblyInfo.cs
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.csproj.CoreCompileInputs.cache
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.MvcApplicationPartsAssemblyInfo.cache
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.RazorAssemblyInfo.cache
-/Users/estaal/source/networkingdemo/networkingdemo-ui/networkingdemo-ui/obj/Debug/netcoreapp3.0/networkingdemo-ui.RazorAssemblyInfo.cs
